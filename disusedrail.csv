@@ -1,0 +1,23 @@
+﻿Station Name,Station Code,lng,lat,Closed to passengers,Closed to freight,Last service year,Confirmed coordinates,Notes
+Downton,D1,-1.739147,50.993011,02/05/1964,,1964,Y,
+Wilton North,W1,-1.859,51.0871,19/09/1955,06/09/1965,1965,Y,
+Wilton South,W2,-1.85827,51.08529,07/03/1966,06/07/1964,1966,Y,
+Salisbury Milford,S1,-1.78068,51.065303,02/05/1859,21/08/1967,1967,N,
+Wishford,WI1,-1.889661,51.118344,19/09/1955,,1955,N,
+Langford,L1,-1.952003,51.130717,01/10/1857,,1857,N,
+Wylye,WY1,-1.9894,51.1363,19/09/1955,02/10/1961,1961,Y,
+Codford,C1,-2.06708,51.15994,19/09/1955,10/06/1963,1963,Y,
+Heytesbury,H1,-2.1114,51.1764,19/09/1955,,1955,Y,
+Breamore,B1,-1.773563,50.958508,02/05/1964,,1964,Y,
+Fordingbridge,F1,-1.80928,50.928897,04/05/1964,,1964,Y,
+Daggons Road (Aldershot),A1,-1.840639,50.912757,02/05/1964,,1964,Y,
+Verwood,V1,-1.891914,50.883141,02/05/1964,,1964,Y,
+West Moors,WM1,-1.88779,50.82648,02/05/1964,27/05/1905,1964,Y,
+Market House Branch,MH1,-1.7967308,51.0697861,,,1964,N,
+Dinton,DI1,-1.9876,51.0781,07/03/1966,18/04/1967,1967,Y,
+Semley,SE1,-2.183,51.04,07/03/1966,,1966,Y,
+Porton,P1,-1.725121,51.12613,01/01/1968,01/01/1962,1968,N,Years are correct but dates are not any more specific than year
+Amesbury,AM1,-1.766111,51.175417,30/06/1952,01/01/1963,1963,Y,Goods date is correct to year only
+Newton Tony,NT1,-1.692934,51.159209,01/01/1952,01/01/1963,1963,Y,Goods date is correct to year only
+Bulford,BU1,-1.7575,51.1895,30/06/1952,04/03/1963,1963,Y,
+Idmiston Halt,IH1,-1.714975,51.132738,01/01/1968,,1968,Y,Years are correct but dates are not any more specific than year
